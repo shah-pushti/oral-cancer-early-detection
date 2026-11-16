@@ -1,6 +1,6 @@
 # Oral cancer early detection: the evidence at each step, from risk to coverage
 
-A person passes through five steps on the way from risk to treatment: **risk, screening, referral, diagnosis, coverage**. This repository collects the published result at each step, the limits of that result, and the open question that follows from it. Every figure links to its source.
+On the way from risk to treatment a person passes through these steps: **risk, screening, referral, diagnosis, coverage**. This repository collects the published result at each step, the limits of that result, and the open question that follows from it. Every figure links to its source.
 
 > Status: draft, compiled with AI assistance from the sources below. Each figure is to be checked against its source by Pushti Shah before this line is removed.
 > General information only. It does not replace an examination by a dentist or doctor.
