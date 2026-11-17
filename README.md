@@ -2,7 +2,6 @@
 
 On the way from risk to treatment a person passes through these steps: **risk, screening, referral, diagnosis, coverage**. This repository collects the published result at each step, the limits of that result, and the open question that follows from it. Every figure links to its source.
 
-> Status: draft. Each figure is being checked against its linked source.
 > General information only. It does not replace an examination by a dentist or doctor.
 
 ```
